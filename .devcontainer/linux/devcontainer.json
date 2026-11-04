@@ -1,5 +1,5 @@
 {
-    "name": "Untitled .NET DevContainter",
+    "name": "Portfolio DevContainter",
     "build": {
         "dockerfile": "Dockerfile"
     },
